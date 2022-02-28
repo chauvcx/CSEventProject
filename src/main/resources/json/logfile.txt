@@ -1,0 +1,4 @@
+{ "id":"scsmbstgra","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":123456789  }
+{ "id":"scsmbstgrb","state":"STARTED","type":"APPLICATION_LOG","host":"23456","timestamp":223456789  }
+{ "id":"scsmbstgra","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":123456794 }
+{ "id":"scsmbstgrb","state":"FINISHED","type":"APPLICATION_LOG","host":"23456","timestamp":223456792 }
